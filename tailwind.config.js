@@ -40,6 +40,9 @@ module.exports = {
       fontFamily: {
         interTight: ['Inter Tight', 'sans-serif'],
       },
+      padding: {
+        17: '4.25rem',
+      },
     },
   },
   plugins: [],
